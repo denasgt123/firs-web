@@ -62,8 +62,13 @@ li {
     padding-bottom: 20px;
 }
 
-.container > p {
-
+.submit-button {
+    width: 100px !important;
+    margin: 10px 0 30px;
+    padding: 20px;
+    font-size: 18px;
+    color: white;
+    background-color: #0C73B6;
 }
 
 .container > input {
